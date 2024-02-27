@@ -1,0 +1,2 @@
+# DekiValidator
+Validation of strings
